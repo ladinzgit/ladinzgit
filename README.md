@@ -1,5 +1,6 @@
-# 👋 Hi, I'm Dinz
+![banner](https://i.pinimg.com/originals/94/fd/b5/94fdb5bb2dc10ba0a66230752a218b4d.gif)
 
+# 👋 Hi, I'm Dinz
 🎓 Software Convergence @ Kyung Hee University  
 ---
 
