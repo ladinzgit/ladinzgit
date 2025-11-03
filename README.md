@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Dinz
 
-<!--
-**ladinzgit/ladinzgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Convergence @ Kyung Hee University  
+---
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+**Languages:** Python, C++, SQL  
+**Frameworks:** PyTorch, FastAPI, Docker  
+**Tools:** Git, GitHub Actions, Slurm
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats
+![Deanz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ladinzgit&show_icons=true&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ladinzgit&layout=compact&theme=default&hide_border=true)
+
+---
+
+### 📫 Contact
+[![Gmail Badge](https://img.shields.io/badge/-ygg33333@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ygg33333@gmail.com)
+---
+
+> “Standing on the Shoulders of Giants”
