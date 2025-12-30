@@ -10,7 +10,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Deanz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ladinzgit&show_icons=true&theme=default&hide_border=true)
+![Dinz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ladinzgit&show_icons=true&theme=default&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ladinzgit&layout=compact&theme=default&hide_border=true)
 
 ---
