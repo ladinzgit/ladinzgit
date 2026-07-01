@@ -18,15 +18,16 @@
 
 > "Standing on the Shoulders of Giants"
 
-## Tiny Visitors
+## gitanimals
  
-<div align="center">
-<img src="https://webpets-flame.vercel.app/media/dog/brown_walk_8fps.gif" width="52" alt="walking dog" />
-<img src="https://webpets-flame.vercel.app/media/panda/black_walk_8fps.gif" width="52" alt="walking panda" />
-<img src="https://webpets-flame.vercel.app/media/totoro/gray_walk_8fps.gif" width="52" alt="walking totoro" />
-<img src="https://webpets-flame.vercel.app/media/turtle/green_walk_8fps.gif" width="52" alt="walking turtle" />
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=ladinzgit&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/ladinzgit?pet-id=860042220223440025"
+    width="600"
+    height="120"
+  />
+</a>
   
-</div>
 
 ## Tech
 
