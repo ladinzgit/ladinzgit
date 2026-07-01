@@ -19,14 +19,13 @@
 > "Standing on the Shoulders of Giants"
 
 ## Tiny Visitors
-
+ 
 <div align="center">
-
-<img src="https://webpets-flame.vercel.app/generated/dog/brown_walk_8fps.gif" width="52" alt="walking dog" />
-<img src="https://webpets-flame.vercel.app/generated/panda/black_walk_8fps.gif" width="52" alt="walking panda" />
-<img src="https://webpets-flame.vercel.app/generated/totoro/gray_walk_8fps.gif" width="52" alt="walking totoro" />
-<img src="https://webpets-flame.vercel.app/generated/turtle/green_walk_8fps.gif" width="52" alt="walking turtle" />
-
+<img src="https://webpets-flame.vercel.app/media/dog/brown_walk_8fps.gif" width="52" alt="walking dog" />
+<img src="https://webpets-flame.vercel.app/media/panda/black_walk_8fps.gif" width="52" alt="walking panda" />
+<img src="https://webpets-flame.vercel.app/media/totoro/gray_walk_8fps.gif" width="52" alt="walking totoro" />
+<img src="https://webpets-flame.vercel.app/media/turtle/green_walk_8fps.gif" width="52" alt="walking turtle" />
+  
 </div>
 
 ## Tech
