@@ -52,7 +52,6 @@
 | [GraphRAG](https://github.com/ladinzgit/GraphRAG) | ConceptNet 5 지식 그래프를 활용한 한국어 질의응답 시스템 |
 | [dinzbot](https://github.com/ladinzgit/dinzbot) | 생일 관리, 운세, AI 챗봇, 음악 기능을 포함한 Discord bot |
 | [hamyo](https://github.com/ladinzgit/hamyo) | 커뮤니티 활동량, 경제, 랭크 카드, 퀘스트 시스템을 갖춘 Discord bot |
-| [khuda-AIE-hands-on](https://github.com/ladinzgit/khuda-AIE-hands-on) | FastAPI 기반 AI 엔지니어링 트랙 실습 자료 |
 
 ## GitHub
 
